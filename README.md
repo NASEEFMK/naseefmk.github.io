@@ -5,7 +5,7 @@
 
 <p>TKMCE QUILON</p>
 
-<img src="abc.jpg" alt="Mountain View" style="width:304px;height:600">
+<img src="class.jpg" alt="Mountain View" style="width:304px;height:600">
 <a href="https://www.facebook.com/muhammed.naseef.585">Facebook</a>
 <a href="https://instagram.com/NASEEF_MK">Instagram</a>
 
